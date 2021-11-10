@@ -3,7 +3,7 @@
     "beaker": {
       "primary": {
         "blue": {
-          "value": "#024c99",
+          "value": "#ff0000",
           "type": "color"
         },
         "blue-dk": {
